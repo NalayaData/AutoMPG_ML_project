@@ -6,9 +6,9 @@ Welcome to the AutoMPG Machine Learning Project! This project aims to explore an
 
 Our work is segmented into the following major parts:
 
-1. **Exploration and Visualization**: In this initial phase, we delve into the dataset using the powerful data manipulation capabilities of pandas and the visualization prowess of seaborn. This notebook primarily focuses on understanding the structure and characteristics of our data.
+1. **Exploration and Visualization**: In this initial phase, we delve into the dataset using the powerful data manipulation capabilities of pandas and the visualization prowess of seaborn. The  notebook "AutoMPG_EDA" primarily focuses on understanding the structure and characteristics of our data.
 
-2. **Building and Evaluating Regression Models**: Once we have a grasp of the data, we proceed to construct, assess, and refine various regression models using the scikit-learn package. The subsequent notebook, "AutoMPG_Comparing_ML_Models," details this phase where we aim to identify the most suitable model for our prediction task.
+2. **Building and Evaluating Regression Models**: Once we have a grasp of the data, we proceed to construct, assess, and refine various regression models using the scikit-learn package. The subsequent notebook, "AutoMPG_Comparing_ML_Models" details this phase where we aim to identify the most suitable model for our prediction task.
 
 3. **Developing Simple Deep Learning Models**: In the era of deep learning, we explore the potential of neural networks for regression tasks. Leveraging the Keras sequential package, our "AutoMPG_Keras_DNN_Model" notebook outlines the creation, evaluation, and fine-tuning of a basic deep learning regression model tailored to our dataset.
 
