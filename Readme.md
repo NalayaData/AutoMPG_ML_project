@@ -14,9 +14,9 @@ Our work is segmented into the following major parts:
 
 ![AutoMPG_ML_MAPE_Compare](./images/AutoMPG_ML_MAPE_Compare.png)
 
-3. **Developing Simple Deep Learning Models**: In the era of deep learning, we explore the potential of neural networks for regression tasks. Leveraging the Keras sequential package, our "AutoMPG_Keras_DNN_Model" notebook outlines the creation, evaluation, and fine-tuning of a basic deep learning regression model tailored to our dataset. (Upcomming soon)
+3. **Developing Simple Deep Learning Models**: In the era of deep learning, we explore the potential of neural networks for regression tasks. Leveraging the Keras sequential package, our "AutoMPG_Keras_DNN_Model" notebook outlines the creation, evaluation, and fine-tuning of a basic deep learning regression model tailored to our dataset. (Upcoming soon)
 
-4. **Experimentation Automation with MLFlow**: Experimentation is key to iterative improvement. In the final phase, we venture into the realm of MLFlow, a powerful tool for tracking and managing machine learning experiments. Our "AutoMPG_MLFlow_AutomatedExperiments" notebook demonstrates how we integrate MLFlow into our workflow to streamline experimentation and enhance reproducibility. (Upcomming soon ..)
+4. **Experimentation Automation with MLFlow**: Experimentation is key to iterative improvement. In the final phase, we venture into the realm of MLFlow, a powerful tool for tracking and managing machine learning experiments. Our "AutoMPG_MLFlow_AutomatedExperiments" notebook demonstrates how we integrate MLFlow into our workflow to streamline experimentation and enhance reproducibility. (Upcoming soon ..)
 
 Through these concerted efforts, our goal is to gain insights into the factors influencing automobile fuel efficiency and develop accurate predictive models to aid in decision-making processes.
 Join us on this exciting journey as we unlock the potential of machine learning in understanding and optimizing auto fuel efficiency!
