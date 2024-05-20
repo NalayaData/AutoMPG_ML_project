@@ -1,4 +1,4 @@
-﻿# AutoMPG Machine Learning Project
+﻿# AutoMPG Machine Learning Project 
 
 Welcome to the AutoMPG Machine Learning Project! This project aims to explore and predict the fuel efficiency (measured in miles per gallon, or MPG) of various automobiles using machine learning techniques. Our endeavor is structured into four distinct phases, each addressing crucial aspects of the data exploration, model building, and experimentation process.
 
@@ -6,7 +6,7 @@ Welcome to the AutoMPG Machine Learning Project! This project aims to explore an
 
 Our work is segmented into the following major parts:
 
-1. **Exploration and Visualization**: In the first notebook [AutoMPG_EFD](AutoMPG_EDA.ipynb), we delve into the dataset using the powerful data manipulation capabilities of pandas and the visualization prowess of seaborn. This notebook primarily focuses on understanding the structure and characteristics of our data.
+1. **Exploration and Visualization**: In the first notebook [AutoMPG_EFD](https://github.dev/NalayaData/AutoMPG_ML_project/blob/main/AutoMPG_EDA.ipynb), we delve into the dataset using the powerful data manipulation capabilities of pandas and the visualization prowess of seaborn. This notebook primarily focuses on understanding the structure and characteristics of our data.
 
 ![AutoMPG_PairPlot](./images/AutoMPG_PairPlot.png)
 
