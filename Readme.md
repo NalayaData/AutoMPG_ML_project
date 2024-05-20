@@ -10,11 +10,13 @@ Our work is segmented into the following major parts:
 
 ![AutoMPG_PairPlot](./images/AutoMPG_PairPlot.png)
 
-2. **Building and Evaluating Regression Models**: Once we have a grasp of the data, we proceed to construct, assess, and refine various regression models using the scikit-learn package. The subsequent notebook, "AutoMPG_Comparing_ML_Models" details this phase where we aim to identify the most suitable model for our prediction task.
+2. **Building and Evaluating Regression Models**: Once we have a grasp of the data, we proceed to construct, assess, and refine various regression models using the scikit-learn package. The subsequent notebook, ["AutoMPG_Comparing_ML_Models"](https://github.dev/NalayaData/AutoMPG_ML_project/blob/main/AutoMPG_Comparing_ML_Models.ipynb) details this phase where we aim to identify the most suitable model for our prediction task. 
 
-3. **Developing Simple Deep Learning Models**: In the era of deep learning, we explore the potential of neural networks for regression tasks. Leveraging the Keras sequential package, our "AutoMPG_Keras_DNN_Model" notebook outlines the creation, evaluation, and fine-tuning of a basic deep learning regression model tailored to our dataset.
+![AutoMPG_ML_MAPE_Compare](./images/AutoMPG_ML_MAPE_Compare.png)
 
-4. **Experimentation Automation with MLFlow**: Experimentation is key to iterative improvement. In the final phase, we venture into the realm of MLFlow, a powerful tool for tracking and managing machine learning experiments. Our "AutoMPG_MLFlow_AutomatedExperiments" notebook demonstrates how we integrate MLFlow into our workflow to streamline experimentation and enhance reproducibility.
+3. **Developing Simple Deep Learning Models**: In the era of deep learning, we explore the potential of neural networks for regression tasks. Leveraging the Keras sequential package, our "AutoMPG_Keras_DNN_Model" notebook outlines the creation, evaluation, and fine-tuning of a basic deep learning regression model tailored to our dataset. (Upcomming soon)
+
+4. **Experimentation Automation with MLFlow**: Experimentation is key to iterative improvement. In the final phase, we venture into the realm of MLFlow, a powerful tool for tracking and managing machine learning experiments. Our "AutoMPG_MLFlow_AutomatedExperiments" notebook demonstrates how we integrate MLFlow into our workflow to streamline experimentation and enhance reproducibility. (Upcomming soon ..)
 
 Through these concerted efforts, our goal is to gain insights into the factors influencing automobile fuel efficiency and develop accurate predictive models to aid in decision-making processes.
 Join us on this exciting journey as we unlock the potential of machine learning in understanding and optimizing auto fuel efficiency!
