@@ -1,0 +1,4 @@
+,Model,R2-training,R2-testing,MAPE-training,MAPE-testing,best_params,r2_relative_difference,params,mape_relative_difference
+0,RandomForest,0.9812124154337445,0.8752688443728562,0.0323415583996629,0.08204466411706282,"{'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}",0.11,tuned,1.54
+1,GradientBoosting,0.9799697316808764,0.8880014627288162,0.04030778064109454,0.08090401468560031,"{'learning_rate': 0.05, 'max_depth': 3, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300, 'subsample': 0.5}",0.09,tuned,1.01
+2,XGBoost,0.9665689090359706,0.8859424974684933,0.04869274315369773,0.08290150630711493,"{'colsample_bytree': 0.8, 'gamma': 0.1, 'learning_rate': 0.1, 'max_depth': 3, 'min_child_weight': 1, 'reg_alpha': 0.1, 'reg_lambda': 1.0, 'subsample': 0.8}",0.08,tuned,0.7
