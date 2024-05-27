@@ -16,6 +16,8 @@ Our work is segmented into the following major parts:
 
 3. **Developing Simple Deep Learning Models**: In the era of deep learning, we explore the potential of neural networks for regression tasks. Leveraging the Keras sequential package, our notebook [AutoMPG_Keras_DNN_Model](https://github.dev/NalayaData/AutoMPG_ML_project/blob/main/AutoMPG_Keras_DNN_Model.ipynb) outlines the creation, evaluation, and fine-tuning of a basic deep learning regression model tailored to our dataset.
 
+![AutoMPG_DNN_progress](./images/AutoMPG_DNN_loss_progress.png)
+
 4. **Experimentation Automation with MLFlow**: Experimentation is key to iterative improvement. In the final phase, we venture into the realm of MLFlow, a powerful tool for tracking and managing machine learning experiments. Our "AutoMPG_MLFlow_AutomatedExperiments" notebook demonstrates how we integrate MLFlow into our workflow to streamline experimentation and enhance reproducibility. (upcoming soon)
 
 Through these concerted efforts, our goal is to gain insights into the factors influencing automobile fuel efficiency and develop accurate predictive models to aid in decision-making processes.
